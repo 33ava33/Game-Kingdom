@@ -1,2 +1,4 @@
 # hello-world
-First practice 
+
+Hi~Guys,
+This is Shan Hu who comes from China and loves foods a lot!
